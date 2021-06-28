@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a fullstack software engineer from France
 - 🔭 Working on multiple frontend and backend project using React/Angular and Nodejs/Java
-- Currently working 
+- Currently working in an SSII in Luxembourg
 
 ## Connect with me
 
